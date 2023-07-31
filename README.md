@@ -63,15 +63,6 @@ We also have a web version of the app with more features and better features, ch
 #### Other Tools
 - Google's on-device ML Kit
 
-## Points to remember while testing the app
-
-1. First setup the backend by following instructions in this [repository](https://github.com/prathamesh-mutkure/anti-cheat-app-backend)
-2. When testing on android emulator, if you get a connection error use `http://10.0.2.2/` instead of `localhost`
-3. iOS emulator doesn't support camera, this will give an error, use a real device to test AI features.
-4. On real devices, make sure your PC and mobile are connected to same network, use network IP address instead of `localhost`
-5. Don't forgot the `PORT` number
-6. Allow **permissions** for camera and mic when asked
-7. Make sure the `BACKEND_URL` is appended with `/api`
 
 ## Instructions
 
@@ -88,20 +79,3 @@ We also have a web version of the app with more features and better features, ch
    - `flutter run`
 7. The app is now running
 
-
-## Useful Links
-
-
-- [Project Demo](https://anti-cheat-exam-app.vercel.app/) for Web version
-- [Mobile App](https://github.com/prathamesh-mutkure/anti-cheat-exam-app) (Android & iOS)
-
-- [Backend Repository](https://github.com/prathamesh-mutkure/anti-cheat-app-backend)
-
-- [Project Thesis](https://drive.google.com/file/d/1fXXXjcE74pIOEwavstTmporuOECc7cUu/view) (Submitted mobile app as final year project for my diploma)
-
-
-## Need help?
-
-Feel free to contact me on [Twitter](https://twitter.com/prathamesh_io/) or [LinkedIn](https://www.linkedin.com/in/prathamesh-mutkure/), know more about me at [prathamesh.co](https://prathamesh.co)
-
-[![Twitter](https://img.shields.io/badge/Twitter-follow-blue.svg?logo=twitter&logoColor=white)](https://twitter.com/prathamesh_io/) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/prathamesh_mutkure/) 
