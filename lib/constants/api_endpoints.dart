@@ -28,6 +28,6 @@ class APIEndpoints {
   };
 
   static Map<String, String> authHeaders(String token) => {
-        HttpHeaders.authorizationHeader: "Bearer $token",
+        HttpHeaders.authorizationHeader: "Bearer $token", 
       };
 }
