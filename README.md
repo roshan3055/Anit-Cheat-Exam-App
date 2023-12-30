@@ -33,7 +33,6 @@
    - We've used Google's on-device `ml-kit` to track the motion of the user's face.
    - We can check if a user is trying to cheat by monitoring the position of their face
 
-   - ![image](https://user-images.githubusercontent.com/28570857/179022316-45cf8a11-9d5a-411f-b4ce-89d1ea02e478.png)
 
 
 
